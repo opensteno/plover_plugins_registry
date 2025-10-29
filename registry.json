@@ -80,6 +80,7 @@
   "plover-sound",
   "plover-spanish-mqd",
   "plover-spanish-system-eo-variant",
+  "plover-spectra-lexer",
   "plover-splits",
   "plover-start-words",
   "plover-startup-py",
@@ -106,6 +107,5 @@
   "plover-wtype-output",
   "plover-wpm-meter",
   "plover-xtest-input",
-  "plover-yaml-dictionary",
-  "spectra-lexer"
+  "plover-yaml-dictionary"
 ]
